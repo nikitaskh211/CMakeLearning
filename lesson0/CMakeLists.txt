@@ -1,4 +1,4 @@
-# setting up minimal requirements
+# setting up minimal requirements -- bare minimum
 cmake_minimum_required(VERSION 3.10)
 
 # project naming
