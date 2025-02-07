@@ -1,0 +1,3 @@
+D:/Coding/Clang/learningCmake/lesson0/build/CMakeFiles/main.dir
+D:/Coding/Clang/learningCmake/lesson0/build/CMakeFiles/edit_cache.dir
+D:/Coding/Clang/learningCmake/lesson0/build/CMakeFiles/rebuild_cache.dir
