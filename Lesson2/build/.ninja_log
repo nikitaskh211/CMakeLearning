@@ -1,0 +1,5 @@
+# ninja log v6
+239	317	7606776775446871	src/CMakeFiles/main.dir/main.cpp.obj	896ed711dec5433
+21	2657	7606776773273971	lib/CMakeFiles/helloC.dir/hello.cpp.obj	6e671c78098d9b11
+2659	2985	7606776799604246	lib/helloC.lib	c314e8a7e6d5a5d6
+2985	3525	7606776802904906	src/main.exe	554e042c09582c8d

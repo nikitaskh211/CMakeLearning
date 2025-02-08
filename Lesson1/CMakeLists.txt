@@ -1,4 +1,4 @@
-# setting up minimal requirements -- 
+# setting up minimal requirements -- custom message
 cmake_minimum_required(VERSION 3.10)
 
 # project naming
