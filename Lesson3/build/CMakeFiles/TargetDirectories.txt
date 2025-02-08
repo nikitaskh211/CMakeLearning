@@ -1,0 +1,8 @@
+D:/Coding/Clang/learningCmake/Lesson3/build/CMakeFiles/edit_cache.dir
+D:/Coding/Clang/learningCmake/Lesson3/build/CMakeFiles/rebuild_cache.dir
+D:/Coding/Clang/learningCmake/Lesson3/build/lib/CMakeFiles/helloC.dir
+D:/Coding/Clang/learningCmake/Lesson3/build/lib/CMakeFiles/edit_cache.dir
+D:/Coding/Clang/learningCmake/Lesson3/build/lib/CMakeFiles/rebuild_cache.dir
+D:/Coding/Clang/learningCmake/Lesson3/build/src/CMakeFiles/main.dir
+D:/Coding/Clang/learningCmake/Lesson3/build/src/CMakeFiles/edit_cache.dir
+D:/Coding/Clang/learningCmake/Lesson3/build/src/CMakeFiles/rebuild_cache.dir

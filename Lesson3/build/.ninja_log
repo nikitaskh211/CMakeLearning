@@ -1,0 +1,5 @@
+# ninja log v6
+230	287	7606784260925872	src/CMakeFiles/main.dir/main.cpp.obj	d447b546f0d860b0
+13	831	7606784258843983	lib/CMakeFiles/helloC.dir/hello.cpp.obj	416646299892f436
+833	1023	7606784266953996	lib/helloC.lib	c314e8a7e6d5a5d6
+1024	1496	7606784268951401	D:/Coding/Clang/learningCmake/Lesson3/bin/main.exe	78a9ca8547af04df
